@@ -1,0 +1,56 @@
+/* Add this CSS to your existing stylesheet or create a new one */
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .dashboard-container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .dashboard-title {
+    font-size: 36px;
+    color: #007bff;
+    margin-bottom: 20px;
+  }
+  
+  .profile-section {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .profile {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  .profile-title {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 15px;
+  }
+  
+  .profile-info {
+    font-size: 18px;
+    color: #555;
+  }
+  
+  .loading-message {
+    font-size: 18px;
+    color: #777;
+  }
+  
